@@ -1,0 +1,46 @@
+html{
+	border: 1px solid black;
+	
+}
+.nav{
+	border: 1px solid black;
+	padding-top: 15px;
+
+}
+
+.nav a{
+	font-size: 20px;
+}
+
+.jumbotron{
+	border: 1px solid black;
+	height: 600px;		
+}
+
+.bigpic{
+	border: 1px solid black;
+	height: 400px;
+	margin-left: 350px;
+	margin-right: 350px;
+
+}
+
+.info{
+	border: 1px solid black;
+	height: 550px;	
+	margin-left: 350px;
+	margin-right: 350px;
+	padding: 20px;
+}
+
+.pic{
+	border: 1px solid black;
+	padding: 15px;
+	height: 300px;
+}
+
+.txt{
+	border: 1px solid black;
+	padding: 15px;
+	height: 200px;
+}

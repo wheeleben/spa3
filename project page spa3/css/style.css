@@ -1,0 +1,39 @@
+html{
+	border: 1px solid black;
+	
+}
+.nav{
+	border: 1px solid black;
+	padding-top: 15px;
+
+}
+
+.nav a{
+	font-size: 20px;
+}
+
+.jumbotron{
+	padding-top: 5px;
+	height: 150px;
+}
+
+.toptabs{
+	border: 1px solid black;
+	height: 100px;
+	margin-left: 350px;
+	margin-right: 350px;
+	padding: 10px;
+}
+
+.app{
+	border: 1px solid black;
+	height: 700px;
+	margin-top: 20px;
+	margin-left: 350px;
+	margin-right: 350px;
+	padding: 10px;
+}
+
+.menu{
+    border: 1px solid black;
+}
